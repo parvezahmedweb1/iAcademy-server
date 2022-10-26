@@ -1,0 +1,26 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Web Development"
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "App Development"
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Machine Learning"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Software Engineering"
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "UI/UX Design"
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Graphic Design"
+  }
+]
