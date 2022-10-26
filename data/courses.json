@@ -1,0 +1,372 @@
+[
+  {
+    "_id": "",
+    "categoryId": 1,
+    "categoryName": "Web Development",
+    "img": "https://i.ibb.co/rxpzwXv/course-01.jpg",
+    "name": "Web Developer Bootcamp 2022",
+    "requirements": [
+      "Have a computer with Internet",
+      "Be ready to learn an insane amount of awesome stuff",
+      "Prepare to build real web apps!",
+      "Brace yourself for stupid jokes about my dog Rusty"
+    ],
+    "Description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, iAcademy most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "hours": 60,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 88.44
+  },
+  {
+    "_id": "",
+    "categoryId": 1,
+    "categoryName": "Web Development",
+    "img": "https://i.ibb.co/YcJXw4S/course-02.jpg",
+    "name": "Fullstack Web Development Bootcamp",
+    "requirements": [
+      "No programming experience needed — I'll teach you everything you need to know",
+      "A Mac or PC computer with access to the internet",
+      "No paid software required - all websites will be created with VS Code (which is free)",
+      "I'll walk you through, step-by-step how to get all the software installed and set up"
+    ],
+    "Description": "Welcome to the Ultimate 2022 Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer and the only course that will prepare you for a career in web development. At 40+ hours, this web development course is extremely comprehensive and one of the most detailed courses available on iAcademy Even if you have zero programming experience, this course will take you from beginner to coding ninja.",
+    "hours": 40,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 140.66
+  },
+  {
+    "_id": "",
+    "categoryId": 1,
+    "categoryName": "Web Development",
+    "img": "https://i.ibb.co/g6tQyxD/course-03.jpg",
+    "name": "Front-End Web Development Course",
+    "requirements": [
+      "All you need is a PC / Laptop",
+      "Decent internet connectivity"
+    ],
+    "Description": "In this Front-End Web Development - Complete Guide (Step by Step) [Updated 2022] you will learn complete front-end web development from scratch. As part of the course, You will learn complete HTML5, and CSS3 step by step. Later you will learn how to use, integrate or add user interactivity with the help of JavaScript. This course also covers the latest JavaScript version which is ECMA Script learn the modern JavaScript techniques with ECMA Script 6 or later.",
+    "hours": 20,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 80.76
+  },
+  {
+    "_id": "",
+    "categoryId": 1,
+    "categoryName": "Web Development",
+    "img": "https://i.ibb.co/cTcxCTq/course-04.jpg",
+    "name": "Backend Master Class",
+    "requirements": ["Only basic programming skill is needed."],
+    "Description": "In this course, you will learn step-by-step how to design, develop and deploy a backend web service from scratch. I believe the best way to learn programming is to build a real application. Therefore, throughout the course, you will learn how to build a backend web service for a simple bank.",
+    "hours": 13,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 60.56
+  },
+  {
+    "_id": "",
+    "categoryId": 2,
+    "categoryName": "App Development",
+    "img": "https://i.ibb.co/drwCLjS/course-05.jpg",
+    "name": "Android App Development",
+    "requirements": [
+      "Basic programming experience in general is helpful but not required. The course covers everything you'll need to build Android Apps",
+      "Be Willing to Work and Learn"
+    ],
+    "Description": "Android App Development will open many doors for you since AAndroidis the most popular operating system in the World.You may have many reasons you want to learn Android development - maybe you have lots of app ideas but don't know where to start?  Or perhaps it's time for a career change, and Android Development picked your interest?  Or maybe you want to be more valuable at your company.",
+    "hours": 49,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 120.76
+  },
+  {
+    "_id": "",
+    "categoryId": 2,
+    "categoryName": "App Development",
+    "img": "https://i.ibb.co/ZHdHwbQ/course-06.jpg",
+    "name": "iOS App Development",
+    "requirements": [
+      "Xcode 13 and Xcode 14 Beta from Apple (free)",
+      "macOS Monterey from Apple (free)",
+      "Willing to create awesome apps by following the instructor step by step",
+      "You do not need any other prior programming experience or knowledge",
+      "Macintosh computer"
+    ],
+    "Description": "There is no other instructor in this category I am aware of who provides more free previews than I do, so you can educate yourself about how things are done in this course. I hope this information helps those who are new to app development.",
+    "hours": 31,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 50.86
+  },
+  {
+    "_id": "",
+    "categoryId": 2,
+    "categoryName": "App Development",
+    "img": "https://i.ibb.co/QQ4sWYv/course-07.jpg",
+    "name": "Mobile App Development",
+    "requirements": [
+      "No prior knowledge is required about creating mern stack project with this course!",
+      "A Windows PC, Mac or Linux Computer for Full Stack Web Development",
+      "Desire to become Mobile App Developer or Web Developer (front end web developer and backend web developer)",
+      "Desire to learn React Native with hooks and context for mobile development"
+    ],
+    "Description": "There is no other instructor in this category I am aware of who provides more free previews than I do, so you can educate yourself about how things are done in this course. I hope this information helps those who are new to app development.",
+    "hours": 20,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 40.66
+  },
+  {
+    "_id": "",
+    "categoryId": 3,
+    "categoryName": "Machine Learning",
+    "img": "https://i.ibb.co/KKbrcRK/course-08.jpg",
+    "name": "Machine Learning A-Z",
+    "requirements": ["Just some high school mathematics level."],
+    "Description": "This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way. We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.This course is fun and exciting, but at the same time, we dive deep into Machine Learning.",
+    "hours": 44,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 110.56
+  },
+  {
+    "_id": "",
+    "categoryId": 3,
+    "categoryName": "Machine Learning",
+    "img": "https://i.ibb.co/GFxgf28/course-09.jpg",
+    "name": "Python for Data Science",
+    "requirements": [
+      "Some programming experience",
+      "Admin permissions to download files"
+    ],
+    "Description": "This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!",
+    "hours": 25,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 60.56,
+    "instructor": [
+      {
+        "name": "Jose Portilla",
+        "title": "Head of Data Science at Pierian Training",
+        "img": "https://i.ibb.co/g6tQyxD/course-03.jpg",
+        "des": "Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics, materials science, and data science. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming, the ability to analyze data, and the skills needed to present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Training and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more. Feel free to check out the website link to find out more information about training offerings."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 3,
+    "categoryName": "Machine Learning",
+    "img": "https://i.ibb.co/KKbrcRK/course-08.jpg",
+    "name": "Data Science Bootcamp 2022",
+    "requirements": [
+      "No prior experience is needed (not even Math and Statistics). We start from the very basics.",
+      "A computer (Linux/Windows/Mac) with internet connection.",
+      "Two paths for those that know programming and those that don't.",
+      "All tools used in this course are free for you to use."
+    ],
+    "Description": "This is a top selling Machine Learning and Data Science course just updated this month with the latest trends and skills for 2022! Become a complete Data Scientist and Machine Learning engineer! Join a live online community of 600,000+ engineers and a course taught by industry experts that have actually worked for large companies in places like Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies. You will go from zero to mastery",
+    "hours": 45,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 70.56,
+    "instructor": [
+      {
+        "name": "Andrei Neagoie",
+        "title": "Founder of zerotomastery.io",
+        "img": "",
+        "des": "Andrei is the instructor of some of the highest rated programming and technical courses online and is the founder of ZTM Academy known for having some of the best instructors and tech education in the world. His graduates have moved on to work for some of the biggest tech companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc... He has been working as a senior software developer in Silicon Valley and Toronto for many years, and is now taking all that he has learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer allows in life. "
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 4,
+    "categoryName": "Software Engineering",
+    "img": "https://i.ibb.co/YcJXw4S/course-02.jpg",
+    "name": "Artificial Intelligence A-Z",
+    "requirements": ["High School Maths", "Basic Python knowledge"],
+    "Description": "Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch. This way you can follow along and understand exactly how the code comes together and what each line means.",
+    "hours": 12,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 30.16,
+    "instructor": [
+      {
+        "name": "Hadelin de Ponteves",
+        "title": "Data Scientist",
+        "img": "",
+        "des": "Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on iAcademy I have passed on my knowledge to thousands of aspiring data scientists."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 4,
+    "categoryName": "Software Engineering",
+    "img": "https://i.ibb.co/GFxgf28/course-09.jpg",
+    "name": "Deep Learning A-Z",
+    "requirements": ["High School Maths", "Basic Python knowledge"],
+    "Description": "Artificial intelligence is growing exponentially. There is no doubt about that. Self-driving cars are clocking up millions of miles, IBM Watson is diagnosing patients better than armies of doctors and Google Deepmind's AlphaGo beat the World champion at Go - a game where intuition plays a key role.",
+    "hours": 22,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 64.86,
+    "instructor": [
+      {
+        "name": "Ligency I Team",
+        "title": "Helping Data Scientists Succeed",
+        "img": "",
+        "des": "Hi there,We are the Ligency team. You will be hearing from us when new Ligency courses are released, when we publish new podcasts, blogs, share cheatsheets and more. We are here to help you stay on the cutting edge of Data Science and Technology. "
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 5,
+    "categoryName": "UI/UX Design",
+    "img": "https://i.ibb.co/cTcxCTq/course-04.jpg",
+    "name": "Figma UI UX Design",
+    "requirements": [
+      "You'll need a copy of Figma. A free plan is available on the Figma website.",
+      "No previous UX Design/UI Design experience is needed.",
+      "No previous Figma skills are needed.",
+      "No previous design skills or experience required."
+    ],
+    "Description": "Hi there - my name is Dan Scott & welcome to Figma Essentials.Together - you and me - are going to learn everything you need to get started working as a UX Designer using Figma.We’ll use this UI UX design tool to create beautiful User Interfaces and engaging prototypes. Most importantly... we'll cover the client expectations of you as a new UX designer.",
+    "hours": 25,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 39.26,
+    "instructor": [
+      {
+        "name": "Daniel Walter Scott",
+        "title": "Adobe Certified Instructor & Adobe Certified Expert",
+        "img": "",
+        "des": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 5,
+    "categoryName": "UI/UX Design",
+    "img": "https://i.ibb.co/rxpzwXv/course-01.jpg",
+    "name": "Adobe XD UI UX Design",
+    "requirements": [
+      "You will need a copy of Adobe XD 2019 or above. A free trial can be downloaded from Adobe.",
+      "No previous design experience is needed.",
+      "No previous Adobe XD skills are needed."
+    ],
+    "Description": "Hi there! My name is Dan & I’m an Adobe Certified Instructor. I’m here to help you learn Adobe XD efficiently and comprehensively. XD is a fantastic design tool used by industry professionals to product high quality & functional mockups. By the end of this course, you will be able to produce practical and effective User Experience (UX) and User Interface (UI) designs.",
+    "hours": 9,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 19.26,
+    "instructor": [
+      {
+        "name": "Daniel Walter Scott",
+        "title": "Adobe Certified Instructor & Adobe Certified Expert",
+        "img": "",
+        "des": "Sharing is who I am, and teaching is where I am at my best, because I've been on both sides of that equation, and getting to deliver useful training is my meaningful way to be a part of the creative community.I've spent a long time watching others learn, and teach, to refine how I work with you to be efficient, useful and, most importantly, memorable. I want you to carry what I've shown you into a bright future."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 6,
+    "categoryName": "Graphic Design",
+    "img": "https://i.ibb.co/KKbrcRK/course-08.jpg",
+    "name": "Graphic Design Masterclass",
+    "requirements": [
+      "Access to Adobe Photoshop, Illustrator & InDesign (Or Affinity Designer, Affinity Photo, Affinity Publisher as an Alternative). I will be using the Adobe Creative Cloud versions, but those with older version can still get a lot out of this class. Those wanting to take the course with Affinity products will find some tools and names do differ so Adobe is preferred.",
+      "If you use Adobe products, I highly suggest using versions CS6 or higher to have a more smooth experience with the course, but not a requirement.",
+      "Software not Included"
+    ],
+    "Description": "We also learn the basics of Adobe Photoshop, illustrator and InDesign and do projects with real world applications. Every designer needs to know and master these programs and this course makes sure you know the essential tools to power through amazing projects.",
+    "hours": 28,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 60.66,
+    "instructor": [
+      {
+        "name": "Lindsay Marsh",
+        "title": "300,000+ Students | Graphic Design, Adobe, Affinity & More",
+        "img": "",
+        "des": "If anyone has questions about which course may work best for them, please feel free to contact or message me.Interactive Designer, Graphic Designer, Web Developer and Social Media Expert, to name a few. My name is Lindsay Marsh and I have been creating brand experiences for my clients for over 15 years. As a freelance graphic designer, I have worked on a wide variety of projects both in the digital and print space. "
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 6,
+    "categoryName": "Graphic Design",
+    "img": "https://i.ibb.co/YcJXw4S/course-02.jpg",
+    "name": "Professional Graphic Designer",
+    "requirements": [
+      "Free trial or education versions of Photoshop, Illustrator, InDesign, Acrobat and Dreamweaver"
+    ],
+    "Description": "Graphic design has always been a popular profession, but with more and more technology being introduced into our lives it's becoming an ever more important one too. All kinds of people use all kinds of technology every day. Making that technology as user-friendly as possible is vital, and graphic design is one of the most important elements of this.",
+    "hours": 32,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 70.36,
+    "instructor": [
+      {
+        "name": "Lindsay Marsh",
+        "title": "300,000+ Students | Graphic Design, Adobe, Affinity & More",
+        "img": "",
+        "des": "Check out our huge catalog of courses and join the over 1,200,000+ students currently taking Stone River eLearning courses. We currently offer 1000+ different technology training courses on our Stone River eLearning website and are adding new courses on hot and trending topics every month. A subscription option is available for those with a real passion for learning."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 6,
+    "categoryName": "Graphic Design",
+    "img": "https://i.ibb.co/drwCLjS/course-05.jpg",
+    "name": "Canva 2022 Graphic Design",
+    "requirements": [
+      "Have a computer with Internet Access.",
+      "No previous design experience is needed."
+    ],
+    "Description": "If you are NOT able to produce Professional Quality Graphic Designs (and Social Media videos)  in the 30 days after taking this course, I'll refund you every penny and you can keep the free books and design templates that come with this course as my gift to you",
+    "hours": 4,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 20.36,
+    "instructor": [
+      {
+        "name": "Adam Daniel",
+        "title": "3 Decades of Startup and Online Business Skills to pass on.",
+        "img": "",
+        "des": "Former Developer and CEO with many startups behind me. I've worn all the hats in so many companies and learned to pick up the necessary skills quickly to make things happen.These self-starting tech skills are  what modern online entrepreneurs are also developing as they build their businesses and I want to pass on my knowledge and help as much as I can."
+      }
+    ]
+  },
+  {
+    "_id": "",
+    "categoryId": 6,
+    "categoryName": "Graphic Design",
+    "img": "https://i.ibb.co/rxpzwXv/course-01.jpg",
+    "name": "Adobe Illustrator CC",
+    "requirements": [
+      "Any version of Adobe Illustrator, preferably the CC (Creative Cloud) version.",
+      "No prior knowledge or experience with Illustrator is required"
+    ],
+    "Description": "Are you frustrated trying to teach yourself Adobe Illustrator?! This course will quickly allow you to start getting paid for your Illustrator skills.Whether you're brand new to Illustrator, or have played around with it but need more guidance, this course will help you feel confident and comfortable using the industry-standard vector-based graphic application.",
+    "hours": 4,
+    "certification": "Yes",
+    "courseType": "Recorded",
+    "price": 20.36,
+    "instructor": [
+      {
+        "name": "Phil Ebiner",
+        "title": "Top-Rated Instructor, 2.5 Million+ Students",
+        "img": "",
+        "des": "I'll teach you the skills necessary to stand out from the crowd. Whether it’s a personal passion or a business pursuit, you can learn video, photography, art, design, marketing skills and more here."
+      }
+    ]
+  }
+]
