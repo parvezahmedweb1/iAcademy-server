@@ -27,7 +27,12 @@ app.get("/courses/:id", (req, res) => {
   const courser = courses.find((course) => course._id === coursesId);
   res.send(courser);
 });
-
+// ? checked out
+app.get("/checkout/:id", (req, res) => {
+  const checkoutId = req.params.id;
+  const checked = courses.find((course) => course._id === checkoutId);
+  res.send(checked);
+});
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
