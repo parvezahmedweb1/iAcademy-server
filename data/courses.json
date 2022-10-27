@@ -1,6 +1,6 @@
 [
   {
-    "_id": "f6f5f910-5560-11ed-9660-8bb0fb210de9",
+    "_id": "19BM128FBW",
     "categoryId": 1,
     "categoryName": "Web Development",
     "img": "https://i.ibb.co/dL7xmF3/course-01.jpg",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "_id": "09435630-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "09435630",
     "categoryId": 1,
     "categoryName": "Web Development",
     "img": "https://i.ibb.co/8KVw7Cs/course-02.jpg",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "_id": "110c2270-5561-11ed-9660-8bb0fb210de9",
+    "_id": "110c2270",
     "categoryId": 1,
     "categoryName": "Web Development",
     "img": "https://i.ibb.co/cyXsVpN/course-03.jpg",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "_id": "1676b360-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "1676b360",
     "categoryId": 1,
     "categoryName": "Web Development",
     "img": "https://i.ibb.co/xCDRVVr/course-04.jpg",
@@ -89,7 +89,7 @@
     }
   },
   {
-    "_id": "1dd15480-5561-11ed-9660-8bb0fb210de9",
+    "_id": "1dd15480",
     "categoryId": 2,
     "categoryName": "App Development",
     "img": "https://i.ibb.co/HYWP8Sh/course-05.jpg",
@@ -111,7 +111,7 @@
     }
   },
   {
-    "_id": "28ac1bb0-5561-11ed-9660-8bb0fb210de9",
+    "_id": "28ac1bb0",
     "categoryId": 2,
     "categoryName": "App Development",
     "img": "https://i.ibb.co/tBXnq5Y/course-06.jpg",
@@ -136,7 +136,7 @@
     }
   },
   {
-    "_id": "331b76e0-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "331b76e0",
     "categoryId": 2,
     "categoryName": "App Development",
     "img": "https://i.ibb.co/nBcnWFY/course-07.jpg",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "_id": "3eaff120-5561-11ed-9660-8bb0fb210de9",
+    "_id": "3eaff120",
     "categoryId": 3,
     "categoryName": "Machine Learning",
     "img": "https://i.ibb.co/8szNysK/course-08.jpg",
@@ -179,7 +179,7 @@
     }
   },
   {
-    "_id": "49700460-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "49700460",
     "categoryId": 3,
     "categoryName": "Machine Learning",
     "img": "https://i.ibb.co/PYcCW1K/course-09.jpg",
@@ -201,7 +201,7 @@
     }
   },
   {
-    "_id": "53d06b70-5561-11ed-9660-8bb0fb210de9",
+    "_id": "53d06b70",
     "categoryId": 3,
     "categoryName": "Machine Learning",
     "img": "https://i.ibb.co/dL7xmF3/course-01.jpg",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "_id": "5cd36560-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "5cd36560",
     "categoryId": 4,
     "categoryName": "Software Engineering",
     "img": "https://i.ibb.co/8KVw7Cs/course-02.jpg",
@@ -244,7 +244,7 @@
     }
   },
   {
-    "_id": "657a5ca0-5561-11ed-9660-8bb0fb210de9",
+    "_id": "657a5ca0",
     "categoryId": 4,
     "categoryName": "Software Engineering",
     "img": "https://i.ibb.co/cyXsVpN/course-03.jpg",
@@ -263,7 +263,7 @@
     }
   },
   {
-    "_id": "6f006940-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "6f006940",
     "categoryId": 5,
     "categoryName": "UI/UX Design",
     "img": "https://i.ibb.co/xCDRVVr/course-04.jpg",
@@ -287,7 +287,7 @@
     }
   },
   {
-    "_id": "788b30d0-5561-11ed-9660-8bb0fb210de9",
+    "_id": "788b30d0",
     "categoryId": 5,
     "categoryName": "UI/UX Design",
     "img": "https://i.ibb.co/HYWP8Sh/course-05.jpg",
@@ -310,7 +310,7 @@
     }
   },
   {
-    "_id": "8231e4d0-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "8231e4d0",
     "categoryId": 6,
     "categoryName": "Graphic Design",
     "img": "https://i.ibb.co/tBXnq5Y/course-06.jpg",
@@ -333,7 +333,7 @@
     }
   },
   {
-    "_id": "8cef6000-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "8cef6000",
     "categoryId": 6,
     "categoryName": "Graphic Design",
     "img": "https://i.ibb.co/nBcnWFY/course-07.jpg",
@@ -354,7 +354,7 @@
     }
   },
   {
-    "_id": "988eafb0-5561-11ed-9660-8bb0fb210de9",
+    "_id": "988eafb0",
     "categoryId": 6,
     "categoryName": "Graphic Design",
     "img": "https://i.ibb.co/8szNysK/course-08.jpg",
@@ -376,7 +376,7 @@
     }
   },
   {
-    "_id": "ae198490-5561-11ed-b3e7-59ea93b4660e",
+    "_id": "ae198490",
     "categoryId": 6,
     "categoryName": "Graphic Design",
     "img": "https://i.ibb.co/PYcCW1K/course-09.jpg",
